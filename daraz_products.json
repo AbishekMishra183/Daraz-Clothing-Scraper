@@ -1,0 +1,242 @@
+[
+    {
+        "title": "Sample Men's T-Shirts Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Men's T-Shirts"
+    },
+    {
+        "title": "Sample Men's T-Shirts Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Men's T-Shirts"
+    },
+    {
+        "title": "Sample Men's T-Shirts Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Men's T-Shirts"
+    },
+    {
+        "title": "Sample Men's T-Shirts Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Men's T-Shirts"
+    },
+    {
+        "title": "Sample Men's T-Shirts Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Men's T-Shirts"
+    },
+    {
+        "title": "Sample Men's T-Shirts Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Men's T-Shirts"
+    },
+    {
+        "title": "Sample Men's Shirts Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Men's Shirts"
+    },
+    {
+        "title": "Sample Men's Shirts Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Men's Shirts"
+    },
+    {
+        "title": "Sample Men's Shirts Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Men's Shirts"
+    },
+    {
+        "title": "Sample Men's Shirts Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Men's Shirts"
+    },
+    {
+        "title": "Sample Men's Shirts Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Men's Shirts"
+    },
+    {
+        "title": "Sample Men's Shirts Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Men's Shirts"
+    },
+    {
+        "title": "Sample Women's Tops Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Women's Tops"
+    },
+    {
+        "title": "Sample Women's Tops Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Women's Tops"
+    },
+    {
+        "title": "Sample Women's Tops Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Women's Tops"
+    },
+    {
+        "title": "Sample Women's Tops Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Women's Tops"
+    },
+    {
+        "title": "Sample Women's Tops Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Women's Tops"
+    },
+    {
+        "title": "Sample Women's Tops Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Women's Tops"
+    },
+    {
+        "title": "Sample Women's Dresses Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Women's Dresses"
+    },
+    {
+        "title": "Sample Women's Dresses Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Women's Dresses"
+    },
+    {
+        "title": "Sample Women's Dresses Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Women's Dresses"
+    },
+    {
+        "title": "Sample Women's Dresses Item 1",
+        "price": 1200.0,
+        "original_price": 1500.0,
+        "discount": "20%",
+        "rating": 4.5,
+        "image_url": "https://example.com/image1.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample1/",
+        "category": "Women's Dresses"
+    },
+    {
+        "title": "Sample Women's Dresses Item 2",
+        "price": 850.0,
+        "original_price": 850.0,
+        "discount": "0%",
+        "rating": 3.8,
+        "image_url": "https://example.com/image2.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample2/",
+        "category": "Women's Dresses"
+    },
+    {
+        "title": "Sample Women's Dresses Item 3",
+        "price": 2400.0,
+        "original_price": 3000.0,
+        "discount": "20%",
+        "rating": 4.2,
+        "image_url": "https://example.com/image3.jpg",
+        "product_url": "https://www.daraz.com.np/products/sample3/",
+        "category": "Women's Dresses"
+    }
+]
